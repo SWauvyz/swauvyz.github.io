@@ -3,15 +3,15 @@
 vai ser SW_Auvyz tenho 16 anos de idade e ainda nao 
 terminei o ensino medio.**
    
-##2 paragrafo
+## 2 paragrafo
    
 *Gosto muito dessa area da tecnologia e to tentando bastante
 entrar nesse mercado, qualquer meio vai ser valido, sendo assim 
 estou pronto para aprender bastante e continuar evoluindo sempre.*
 	 
-###3 paragrafo
+### 3 paragrafo
   
-__Por enquanto nao tenho muitas coisas para ser apresentada, porem
+__ Por enquanto nao tenho muitas coisas para ser apresentada, porem
 ja fiz curso de __logica, java, java poo, e algumas aulas avulsas de 
 python.__
      
