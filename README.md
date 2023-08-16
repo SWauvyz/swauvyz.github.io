@@ -1,5 +1,5 @@
 # swauvyz.github.io
-** Opa meu nome e joão marcos, e pelo visto agr meu nickname 
+**Opa meu nome e joão marcos, e pelo visto agr meu nickname 
 vai ser SW_Auvyz tenho 16 anos de idade e ainda nao 
 terminei o ensino medio.**
    
@@ -11,7 +11,7 @@ estou pronto para aprender bastante e continuar evoluindo sempre.*
 	 
 ### 3 paragrafo
   
-__ Por enquanto nao tenho muitas coisas para ser apresentada, porem
+Por enquanto nao tenho muitas coisas para ser apresentada, porem
 ja fiz curso de __logica, java, java poo, e algumas aulas avulsas de 
 python.__
      
