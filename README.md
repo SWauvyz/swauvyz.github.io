@@ -1,7 +1,9 @@
 # swauvyz.github.io
+
 **Opa meu nome e joão marcos, e pelo visto agr meu nickname 
 vai ser SW_Auvyz tenho 16 anos de idade e ainda nao 
 terminei o ensino medio.**
+
    
 ## 2 paragrafo
    
